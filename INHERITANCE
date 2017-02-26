@@ -3,4 +3,11 @@ using namespace std;
 
 class base
 {
-    int 
+    int age;
+    public:
+    int fnread()
+    
+}
+class derived:public base
+{
+
